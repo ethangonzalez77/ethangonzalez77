@@ -2,11 +2,11 @@
 
 🚀 Check out my New Portfolio
 
-I'm Ethan Gonzalez a Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com). I Spend most of my time coding outstanding projects or recording tutorials.
+I'm Ethan Gonzalez a Full Stack Web Developer and Content Creator on [Youtube](https://www.youtube.com/@ecoProgrammer/featured). I Spend most of my time coding outstanding projects or learning new skills.
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-Ethan-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com) [![Linkedin Badge](https://img.shields.io/badge/-Ethan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-gonzalez-a0a0a2234/) [![Mail Badge](https://img.shields.io/badge/-Ethan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ethan.gonzalez00774@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-ecoProgrammer-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/@ecoProgrammer/featured) [![Linkedin Badge](https://img.shields.io/badge/-Ethan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-gonzalez-a0a0a2234/) [![Mail Badge](https://img.shields.io/badge/-Ethan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ethan.gonzalez00774@gmail.com)
 
 <!-- TODO: Add last video link -->
 
