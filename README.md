@@ -30,7 +30,6 @@ I'm Ethan Gonzalez a Full Stack Web Developer and Content Creator on [Youtube](h
 
 #### Bizness
 
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 - :email: ethan.gonzalez00774@gmail.com
 
 #### Profile Visits
